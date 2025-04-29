@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/5cac886c-96e5-4d57-a35a-d4ab169b4127)
+
+
 # 🧠 AI Task Manager
 
 
